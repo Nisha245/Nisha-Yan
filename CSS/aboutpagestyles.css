@@ -5,7 +5,7 @@ body {
 }
 
 div {
-    min-height: 100vh;
+    min-height: 10vh;
     width: 100vw;
 }
 
@@ -15,9 +15,9 @@ div {
 
 .green-item {
   color: green;
-  
+
 }
-  h1,h2 {
+  h1,h2,p {
     text-align: center;
   }
 
@@ -41,7 +41,7 @@ img {
 p {
   width: 40%;
   font-size: 2em;
-  margin: 10vh 10vw;
+  margin: 1vh 30vw;
 }
 
 a {
