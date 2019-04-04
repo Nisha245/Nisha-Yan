@@ -1,0 +1,175 @@
+
+
+
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-family:"Bradley Hand";
+	font-size: 13px;
+	color: #061C37;
+	background: url("aboutuspic");
+
+}
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;
+}
+
+#page
+{
+  display: block;
+  height:auto;
+  position: relative;
+  overflow: hidden;
+  width: 670px;
+}
+
+.topNaviagationLink
+{
+text-align:center;
+position:relative;
+margin-top:30px;
+font-size:18px;
+margin-left:-10px;
+width:121px;
+height: 35px;
+line-height: 35px;
+float:left;
+color:#000000;
+font-family:"Bradley Hand";
+}
+
+
+.topNaviagationLink a
+{
+text-decoration:none;
+color:#000000;
+margin-bottom:0px;
+border-bottom:dotted 3px;
+}
+
+
+#mainPicture
+{
+clear:both;
+width:670px;
+height:345px;
+}
+
+#mainPicture .picture
+{
+position:relative;
+width:650px;
+height:325px;
+top:10px;
+margin-left:10px;
+background-image: url("aboutuspic.jpg");
+background-repeat:no-repeat;
+background-size: contain;
+}
+
+#headerTitle
+{
+position:relative;
+text-align:center;
+top:250px;
+left:22px;
+font-size:50px;
+color:rgb(186,0,97);
+font-family:"Bradley Hand";
+}
+
+#headerSubtext
+{
+position:relative;
+text-align:right;
+top:260px;
+right:8px;
+font-size:22px;
+color:rgb(186,0,97);
+font-family:"Bradley Hand";
+}
+
+.contentBox
+{
+margin-top:10px;
+width:670px;
+height:350px;
+background-color:rgb(198,74,120);
+padding-bottom:20px;
+}
+
+.contentBox .innerBox
+{
+margin-left:10px;
+position:relative;
+width:650px;
+height:350px;
+top:10px;
+background-image:url(contentBack.png);
+background-color:#FFFFFF;
+background-repeat:repeat-x;
+}
+
+h1
+{
+font-size:25px;
+margin-bottom:10px;
+padding-top:18px;
+margin-left:15px;
+margin-top:15px;
+color:#1F1603;
+}
+
+.contentText
+{
+font-size:17px;
+line-height:24px;
+margin-left:13px;
+margin-right:13px;
+}
+
+#footer {
+text-align:center;
+padding-top:30px;
+font-size:9px;
+font-family:"Bradley Hand";
+color:#C87002;
+margin:0px;
+}
+
+#footer a
+{
+color:#C87002;
+text-decoration:none;
+font-size:9px;
+}
+
+a
+{
+color:#C87002;
+text-decoration:none;
+}
+
+a:hover
+{
+color:#793C06
+text-decoration:none;
+border-bottom:dotted 2px;
+}
+a:visited
+{
+color:#793C06;
+
+}
+
+
+
+
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}

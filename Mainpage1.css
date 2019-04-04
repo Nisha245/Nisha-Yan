@@ -1,0 +1,87 @@
+
+
+
+body {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-family:"Bradley Hand";
+	font-size: 13px;
+	color: #061C37;
+	background: url("aboutuspic");
+
+}
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;
+}
+
+h1 {
+	font-family: "Bradley Hand";
+	font-size: 60px;
+	color: #061C37;
+  text-align: center;
+
+}
+*
+
+#page
+{
+  display: block;
+  height:auto;
+  position: relative;
+  overflow: hidden;
+  width: 670px;
+}
+
+.topNaviagationLink
+{
+text-align:center;
+position:relative;
+margin-top:30px;
+font-size:18px;
+margin-left:-10px;
+width:121px;
+height: 35px;
+line-height: 35px;
+float:left;
+color: blue;
+font-family:"Bradley Hand";
+}
+
+
+.topNaviagationLink a
+{
+text-decoration:none;
+color:#000000;
+margin-bottom:0px;
+border-bottom:dotted 3px;
+}
+
+
+
+
+a
+{
+color::#793C06;
+text-decoration:none;
+}
+
+a:hover
+{
+color:#793C06
+text-decoration:none;
+border-bottom:dotted 2px;
+}
+a:visited
+{
+color:#793C06;
+
+}
+
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}
